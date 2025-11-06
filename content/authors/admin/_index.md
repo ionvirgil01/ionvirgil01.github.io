@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Ion Virgil
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include statistics, machine learning, and qualifications
 
 #interests:
 #- Artificial Intelligence
@@ -66,8 +66,8 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a statistician and data scientist driven by the challenge of transforming data into clear, actionable insights. My work bridges statistics with creative problem solving using statistical modeling, machine learning, and data visualization to support decision-making and innovation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+With a background in applied statistics and programming, I specialize in designing clean, efficient data pipelines and building models that tell a story, not just return a number. Whether analyzing large-scale datasets, automating workflows, or communicating findings through data, I focus on clarity, transparency, and impact.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+I’ve worked on projects ranging from predictive analytics and business intelligence dashboards to experimental research and AI-driven modeling. I’m most energized when turning raw data into strategies that create measurable value, and when collaborating with teams who see data as more than science.

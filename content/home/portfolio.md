@@ -28,11 +28,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Statistical Analysis
       tag: ML
-    - name: Computer Vision
+    - name: Data visualisation
       tag: CV
-    - name: NLP
+    - name: Data modelling
+      tag: NLP
+    - name: Language Models
       tag: NLP
 
 design:

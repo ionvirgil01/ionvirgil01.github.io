@@ -18,7 +18,9 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+Welcome! My name is **Virgil**, a data scientist enthusiast passionate about tackling tough
+problems and continuously elevating my craft 
 
-Check out my [resumé](/about/) and portfolio below 😍
+If you came here then you've got a problem, and I can help with that.
+
+How? See bellow. Or not. Just contact me and i'll tell you.
