@@ -28,14 +28,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Statistical Analysis
-      tag: ML
-    - name: Data visualisation
-      tag: CV
-    - name: Data modelling
-      tag: NLP
-    - name: Language Models
-      tag: NLP
+    - name: Statistics
+      tag: Statistical Analysis
+    - name: Visualisation
+      tag: Data visualisation
+    - name: Algorithms
+      tag: Data modelling
+    - name: LLMs
+      tag: Language Models
 
 design:
   columns: '1'

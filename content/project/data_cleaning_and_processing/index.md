@@ -1,10 +1,10 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: How to clean your data
+summary: Good data is difficult to clean most of the times.
 tags:
-  - CV
-date: 2022-01-01
-external_link: /project/cartoon/details/
+  - Data modelling
+date: 2025-11-07
+external_link: "#"
 ---
 
 This project is a Python-based tool that uses facial landmark detection and style transfer
