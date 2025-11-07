@@ -11,7 +11,7 @@ weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
-subtitle:
+subtitle: Being a good father is my greatest achievement
 
 # Date format
 #   Refer to https://docs.hugoblox.com/customization/#date-format
@@ -28,4 +28,4 @@ design:
 ---
 
 
-                             Being a good father is my greatest achievement
+                             
