@@ -22,4 +22,4 @@ Numele meu este **Virgil**. Sunt statistician și consultant în știința datel
 
 Sunt specializat în analiză statistică aplicată, modelare predictivă și automatizarea fluxurilor de date.
 
-Cum te pot ajuta? Contactează-mă și spune-mi ce problemă ai de rezolvat.
+Află mai jos cu ce te pot ajuta.
