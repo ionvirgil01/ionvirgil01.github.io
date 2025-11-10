@@ -22,36 +22,43 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Statistician
-    company: Freelancer
+  - title: Cercetare științifică
+    company: 
     company_url: ''
     company_logo: 
-    location: Bucharest
+    location: București
     date_start: '2017-01-01'
     date_end: ''
     description: |2-
-        * Analiză statistică descriptivă și inferențială
-        * Modelare statistică
-        * Rapoarte automate și KPIs
-        * Analiză de date exploratorie
+        * Analiza descriptivă a datelor
+        * Aplicarea statisticii inferențiale
+        * Analiza anchetelor și interpretarea datelor în format APA ș.a
+        * Analiză de date exploratorie prin intermediul JASP/SPSS 
+        * Publicarea cu succes în reviste internaționale ISI/WoS
 
-  - title: Specialist sisteme de calificare
-    company: ANC
+  - title: Vizualizarea datelor
+    company: 
     company_url: ''
     company_logo: 
     location: București
-    date_start: '2015-01-01'
+    date_start: '2017-01-01'
     date_end: ''
-    description: Implementarea de politici în domeniul calificărilor.
+    description: |2-
+        * Vizualizarea datelor utilizând limbajul R (tidyverse, base R)
+        * Vizualizarea datelor utilizând Tableau, Power BI, JASP și SPSS
+        * Dezvoltarea de infografice
 
-  - title: Membru MSWG RO 
-    company: Comisia Europeană - European Skills, Competences, Qualifications and Occupations (ESCO)
+  - title: Modelare statistică
+    company: 
     company_url: ''
     company_logo: 
     location: București
-    date_start: '2022-01-01'
+    date_start: '2017-01-01'
     date_end: ''
-    description: Participare activă în dezvoltarea și implementarea ESCO.
+    description: |2-
+        * Implementarea de algoritmi utilizând R și Python
+        * Modelare statistică utilizând R și Python
+        * Testare A/B
 
 design:
   columns: '1'
