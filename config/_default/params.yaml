@@ -8,8 +8,8 @@
 appearance:
   theme_day: custom
   theme_night: custom
-  font: minimal
-  font_size: L
+  font: rose
+  font_size: M
 
 # SEO
 
@@ -18,7 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Data science consulting services to help you unlock insights from your data and drive informed decision-making'
+    description: 'servicii de analiza datelor și statistică aplicată, interpretare rezultate, data science'
+    keywords: 'data science, analiza datelor, statistică aplicată, interpretare rezultate, machine learning, vizualizare date, prelucrare date'
     twitter: 'ionvirgil26'
   analytics:
     google_analytics: ''
@@ -59,6 +60,7 @@ locale:
 # Site features
 
 features:
+
   syntax_highlighter:
     enable: true
     extra_languages:

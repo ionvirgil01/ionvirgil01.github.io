@@ -1,8 +1,8 @@
 ---
-title: How to analyse your questionnaire
-summary: Apply the correct scales, tools and methods to get the best of your data.
+title: Cum să analizezi un chestionar?
+summary: Cum să utilizezi corect scalele, instrumentele și metodele pentru a extrage ce este mai bun din datele tale?   
 tags:
-  - Statistical analysis
+  - Analiză statistică
 date: 2025-11-07
 external_link: "#"
 ---

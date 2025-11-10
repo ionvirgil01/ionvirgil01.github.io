@@ -1,8 +1,8 @@
 ---
-title: How to create an informative plot or figure
-summary: The proper plot type, data, and what you can communicate with it.
+title: Cum poți construi un grafic sau o figura informativă? 
+summary: Alege tipul de grafic potrivit și cum poți comunica eficient cu el.
 tags:
-  - Data visualisation
+  - Vizualizare
 date: 2025-11-07
 external_link: "#"
 ---

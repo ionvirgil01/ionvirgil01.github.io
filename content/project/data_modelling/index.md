@@ -1,8 +1,8 @@
 ---
-title: How to implement algorithms into your project
-summary: Can yoy implement the proper algorithms in your project?
+title: Cum poți utiliza algoritmii în proiectul tău? 
+summary: Poți implementa algoritmii corect în proiectul tău? 
 tags:
-  - Data modelling
+  - Modelare
 date: 2025-11-07
 external_link: "#"
 ---

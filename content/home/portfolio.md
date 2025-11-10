@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Statistics
-      tag: Statistical Analysis
-    - name: Visualisation
-      tag: Data visualisation
-    - name: Algorithms
-      tag: Data modelling
+    - name: Statistică
+      tag: Analiză statistică
+    - name: Vizualizare
+      tag: Vizualizare
+    - name: Algoritmi
+      tag: Modelare
     - name: LLMs
       tag: Language Models
 

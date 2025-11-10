@@ -1,8 +1,8 @@
 ---
-title: How to clean your data
-summary: Good data is difficult to clean most of the times.
+title: Cum poți prelucra cel mai eficient datele tale? 
+summary: Datele corecte sunt greu de prelucrat de cele mai multe ori.
 tags:
-  - Data modelling
+  - Modelare
 date: 2025-11-07
 external_link: "#"
 ---

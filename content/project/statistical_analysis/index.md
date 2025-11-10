@@ -1,8 +1,8 @@
 ---
-title: How to perform reliable research for succesfull peer-review articles
-summary: From a proper methodology to valid conclussions
+title: Cum poți analiza statistic eficient datele din cercetare pentru publicarea cu succes în reviste internaționale? 
+summary: De la o metodologie corectă la concluzii valide
 tags:
-  - Statistical analysis
+  - Analiză statistică
 date: 2025-11-07
 external_link: "#"
 ---

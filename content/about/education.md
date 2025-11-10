@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Education
+title: Educație
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MS of Statistics
-    company: Bucharest Academy of Economic Studies
+  - title: Master în statistică
+    company: Academia de Studii Economice din București
     company_url: ''
     company_logo: 
-    location: Bucharest
+    location: București
     date_start: '2012-01-01'
     date_end: '2015-01-01'
     description: |2-
-        Dissertation on the connections between occupations and qualifications in the context of EQF
+        
 
-  - title: Bachelor of Economics
-    company: Bucharest Academy of Economic Studies
+  - title: Licențiat în cibernetică, statistică și informatică economică
+    company: Academia de Studii Economice din București
     company_url: ''
     company_logo:
-    location: Bucharest
+    location: București
     date_start: '2015-01-01'
     date_end: '2017-12-31'
-    description: Dissertation was on the influence of education on the national and international labor market
+    description: 
 
 design:
   columns: '1'

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experience
+title: Experiență
 subtitle:
 
 # Date format for experience
@@ -30,28 +30,28 @@ experience:
     date_start: '2017-01-01'
     date_end: ''
     description: |2-
-        * Statistical analysis and modeling
-        * Automated reports and KPIs
-        * Data modelling
-        * Statistical research
+        * Analiză statistică descriptivă și inferențială
+        * Modelare statistică
+        * Rapoarte automate și KPIs
+        * Analiză de date exploratorie
 
-  - title: Qualifications specialist
-    company: NQA Romania
+  - title: Specialist sisteme de calificare
+    company: ANC
     company_url: ''
     company_logo: 
-    location: Bucharest
+    location: București
     date_start: '2015-01-01'
     date_end: ''
-    description: Implementing policies in the field of qualifications.
+    description: Implementarea de politici în domeniul calificărilor.
 
-  - title: MSWG RO Member 
-    company: European Commission - European Skills, Competences, Qualifications and Occupations (ESCO)
+  - title: Membru MSWG RO 
+    company: Comisia Europeană - European Skills, Competences, Qualifications and Occupations (ESCO)
     company_url: ''
     company_logo: 
-    location: Bucharest
+    location: București
     date_start: '2022-01-01'
     date_end: ''
-    description: Participate in the continuous improvement of ESCO
+    description: Participare activă în dezvoltarea și implementarea ESCO.
 
 design:
   columns: '1'

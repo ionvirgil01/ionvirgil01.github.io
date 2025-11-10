@@ -18,9 +18,8 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Welcome! My name is **Virgil**, a data scientist enthusiast passionate about tackling tough
-problems and continuously elevating my craft 
+Numele meu este **Virgil**. Sunt statistician și consultant în știința datelor. 
 
-If you came here then you've got a problem, and I can help with that.
+Sunt specializat în analiză statistică aplicată, modelare predictivă și automatizarea fluxurilor de date.
 
-How? See bellow. Or not. Just contact me and i'll tell you.
+Cum te pot ajuta? Contactează-mă și spune-mi ce problemă ai de rezolvat.

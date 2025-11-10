@@ -1,8 +1,8 @@
 ---
-title: Take Microsoft Excel to the next level
-summary: How to harness the power of a simple plot using the most basid data visualisation tool
+title: Cum utilizezi Microsoft Excel la nivel avansat? 
+summary: Cum poți utiliza unul dintre cele mai simple instrumente de analiză de date pentru a crea grafice interesante și moderne
 tags:
-  - Data visualisation
+  - Vizualizare
 date: 2025-11-07
 external_link: "#"
 ---

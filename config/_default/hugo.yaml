@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Ion Virgil - Data science consulting # Website name
+title: Ion Virgil - Analiza datelor și data science # Website name
 baseURL: 'https://www.ionvirgil.ro/' # Website URL
 
 ############################
@@ -24,7 +24,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ro
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

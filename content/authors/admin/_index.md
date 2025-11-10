@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ion Virgil
+title: date - statistică - rezolvarea-problemelor
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include statistics, machine learning, and qualifications
+bio: Interesele mele includ statistica, inteligența artificială și calificările
 
 #interests:
 #- Artificial Intelligence
@@ -69,8 +69,8 @@ social:
 #email: ""
 ---
 
-I’m a statistician and data scientist driven by the challenge of transforming data into clear, actionable insights. My work bridges statistics with creative problem solving using statistical modeling, machine learning, and data visualization to support decision-making and innovation.
+Sunt statistician și specialist în știința datelor, motivat de provocarea de a transforma datele în informații clare și ușor de utilizat. Activitatea mea îmbină statistica cu gândirea creativă și rezolvarea problemelor folosind modelarea statistică, algoritmii și vizualizarea datelor.
 
-With a background in applied statistics and programming, I specialize in designing clean, efficient data pipelines and building models that tell a story, not just return a number. Whether analyzing large-scale datasets, automating workflows, or communicating findings through data, I focus on clarity, transparency, and impact.
+Cu o pregătire în statistică aplicată și programare, mă specializez în proiectarea unor fluxuri de date curate și eficiente și în construirea de modele pentru rezolvarea problemelor. Fie că analizez seturi mari de date, automatizez procese sau comunic rezultatele prin intermediul vizualizării datelor, mă concentrez pe claritate, transparență și impact.
 
-I’ve worked on projects ranging from predictive analytics and business intelligence dashboards to experimental research and AI-driven modeling. I’m most energized when turning raw data into strategies that create measurable value, and when collaborating with teams who see data as more than science.
+Am lucrat la proiecte care variază de la analize descriptive și inferențiale, business intelligence până la cercetare experimentală exploratorie și modelare bazată pe algoritmi. Mă simt cel mai motivat atunci când transform date brute în strategii care generează valoare măsurabilă și când colaborez cu echipe care văd datele ca pe mai mult decât o știință.
