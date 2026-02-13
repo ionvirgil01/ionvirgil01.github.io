@@ -1,6 +1,6 @@
 ---
 # Display name
-title: date - statistică - rezolvarea-problemelor
+title: analiză statistică - business analysis - cercetare
 
 # Is this the primary user of the site?
 superuser: true
