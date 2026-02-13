@@ -54,6 +54,9 @@ social:
   - icon: facebook
     icon_pack: fab
     link: https://facebook.com/ion.virgil.52
+  - icon: phone
+    icon_pack: fas
+    link: "tel:+40731621674"
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
