@@ -4,7 +4,7 @@ summary: Datele corecte sunt greu de prelucrat de cele mai multe ori.
 tags:
   - Modelare
 date: 2025-11-07
-external_link: "#"
+external_link: ""
 ---
 
 This project is a Python-based tool that uses facial landmark detection and style transfer
