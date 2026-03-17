@@ -18,8 +18,14 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Numele meu este **Virgil**. Sunt statistician și consultant în știința datelor. 
+<p style="text-align: left;">
+Salut, eu sunt Virgil.
+</p>
 
-Sunt specializat în analiză statistică aplicată, modelare predictivă și automatizarea fluxurilor de date.
+<p style="text-align: left;">
+Sunt statistician și sunt specializat în analiză statistică aplicată, cercetare academică și data science. Pe scurt, pot prelucra orice tip de date și pot extrage cele mai relevante rezultate, astfel încât să poți publica o lucrare academică, să iei o decizie bazată pe date sau să creezi un MVP. 
+</p>
 
-Află mai jos cu ce te pot ajuta.
+<p style="text-align: left;">
+Deoarece niciun proiect nu este la fel, iar seturile de date diferă (cu mici excepții) combin statistica cu limbajele de programare R și Python pentru a oferi cât mai multă flexibilitate. Fie că vorbim de biostatistică, date clinice sau experimentale, anchete statistice sau business analysis, cel mai important este să poți comunica corect și eficient rezultatele. Cu asta te pot ajuta.
+</p>
