@@ -10,4 +10,3 @@ external_link: "#"
 
 lorem ipsum
 
-
