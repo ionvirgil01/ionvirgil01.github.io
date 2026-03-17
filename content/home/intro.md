@@ -5,7 +5,7 @@ widget: about.avatar
 # This file represents a page section.
 headless: true
 diagram: true
-
+mermaid: true
 # Order that this section will appear in.
 weight: 10
 
@@ -34,7 +34,6 @@ Deoarece niciun proiect nu este la fel, iar seturile de date diferă (cu mici ex
 </p>
 
 </br>
-
 
 ```mermaid
 stateDiagram-v2
