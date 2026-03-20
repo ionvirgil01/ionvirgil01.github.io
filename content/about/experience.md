@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experiență
+title: Experiență în
 subtitle:
 
 # Date format for experience
@@ -27,38 +27,38 @@ experience:
     company_url: ''
     company_logo: 
     location: București
-    date_start: '2017-01-01'
+    date_start: '2015-01-01'
     date_end: ''
     description: |2-
-        * Analiza descriptivă a datelor
-        * Aplicarea statisticii inferențiale
-        * Analiza anchetelor și interpretarea datelor în format APA ș.a
-        * Analiză de date exploratorie prin intermediul JASP/SPSS 
-        * Publicarea cu succes în reviste internaționale ISI/WoS
+        * Analiză statistică descriptivă și inferențială
+        * Design și prelucrare seturi de date clinice, panel, experimentale sau pe bază de chestionar (anchetă)
+        * Utilizarea principalelor programe, precum JASP, SPSS, JAMOVI
+        * Utilizarea limbajelor R și Python acolo unde cele de mai sus eșuează
+        * Publicare cu succes în reviste internaționale ISI/WoS
 
   - title: Vizualizarea datelor
     company: 
     company_url: ''
     company_logo: 
     location: București
-    date_start: '2017-01-01'
+    date_start: '2015-01-01'
     date_end: ''
     description: |2-
-        * Vizualizarea datelor utilizând limbajul R (tidyverse, base R)
-        * Vizualizarea datelor utilizând Tableau, Power BI, JASP și SPSS
-        * Dezvoltarea de infografice
+        * Realizarea de infografice prin intermediul librăriilor R (tidyverse), d3.js (JavaScript) + Adobe Illustrator, Tableau și Power BI.
+        * Realizarea de grafice și elemente grafice pentru publicarea articolelor științifice
+        * Automatizarea raportărilor (ex. KPI)
 
   - title: Modelare statistică
     company: 
     company_url: ''
     company_logo: 
     location: București
-    date_start: '2017-01-01'
+    date_start: '2015-01-01'
     date_end: ''
     description: |2-
-        * Implementarea de algoritmi utilizând R și Python
-        * Modelare statistică utilizând R și Python
-        * Testare A/B
+      * Dezvoltare de modele statistice (regresii, modele multivariate, machine learning)
+      * Analiză A/B pentru luarea deciziilor
+      * Consultanță în colectarea datelor
 
 design:
   columns: '1'

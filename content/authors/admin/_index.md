@@ -72,8 +72,8 @@ social:
 #email: ""
 ---
 
-Sunt statistician și specialist în știința datelor, motivat de provocarea de a transforma datele în informații clare și ușor de utilizat. Activitatea mea îmbină statistica cu gândirea creativă și rezolvarea problemelor folosind modelarea statistică, algoritmii și vizualizarea datelor.
+Sunt statistician și profesez în domeniul educației de peste 10 ani. Colaborez cu persoane din domeniul cercetării, cu scopul publicării în jurnale științifice și ofer consultanță în proiectarea studiilor care implică analiza statistică a datelor.
 
-Cu o pregătire în statistică aplicată și programare, mă specializez în proiectarea unor fluxuri de date curate și eficiente și în construirea de modele pentru rezolvarea problemelor. Fie că analizez seturi mari de date, automatizez procese sau comunic rezultatele prin intermediul vizualizării datelor, mă concentrez pe claritate, transparență și impact.
+Am absolvit studiile superioare în statistică aplicată și programare, și dețin experiența necesară în a combina cele două domenii astfel încât să rezolv problemele cât mai eficient, indiferent de dificultate.
 
-Am lucrat la proiecte care variază de la analize descriptive și inferențiale, business intelligence până la cercetare experimentală exploratorie și modelare bazată pe algoritmi. Mă simt cel mai motivat atunci când transform date brute în strategii care generează valoare măsurabilă și când colaborez cu echipe care văd datele ca pe mai mult decât o știință.
+Am lucrat la proiecte care variază de la analize descriptive și inferențiale, business intelligence până la cercetare experimentală exploratorie și modelare bazată pe algoritmi.
