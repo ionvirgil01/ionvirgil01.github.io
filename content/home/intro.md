@@ -4,9 +4,9 @@ widget: about.avatar
 
 # This file represents a page section.
 headless: true
+
 # Order that this section will appear in.
 weight: 10
-
 author: admin
 #design:
 #  background:
@@ -53,3 +53,17 @@ stateDiagram-v2
     Interpretare --> PG 
     Interpretare --> PD
 ```
+
+</br>
+</br>
+
+## Ai nevoie de consultanță?
+
+Contact 👉  <a href="tel:+40731621674" class="phone-link">
+  📞 0731 621 674
+</a>
+
+
+
+</br>
+

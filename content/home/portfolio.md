@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: 'Ghiduri și exemple'
 subtitle: ''
 
 content:
@@ -26,12 +26,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: Toate
       tag: '*'
     - name: Statistică
       tag: Analiză statistică
-    - name: Vizualizare
-      tag: Vizualizare
+    - name: Vizualizarea datelor
+      tag: Vizualizarea datelor
+    - name: Cercetare
+      tag: Cercetare
     - name: Algoritmi
       tag: Modelare
     - name: LLMs
