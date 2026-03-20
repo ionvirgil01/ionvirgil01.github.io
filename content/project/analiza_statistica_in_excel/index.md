@@ -1,5 +1,5 @@
 ---
-title: Pot face o analiză statistică în Excel?
+title: Cum pot face o analiză statistică în Excel? Care sunt limitările?
 summary: 
 tags:
   - Vizualizare

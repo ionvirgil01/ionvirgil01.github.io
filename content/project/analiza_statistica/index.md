@@ -21,7 +21,6 @@ authors:
 featured: true
 mermaid: true
 math: true
-toc: true
 external_link: "#"
 
 ---
