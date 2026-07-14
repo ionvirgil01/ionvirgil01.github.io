@@ -24,9 +24,7 @@ Salut, eu sunt Virgil.
 </h2>
 
 <p style="text-align: left;">
-Sunt statistician și lucrez în educație și cercetare de peste 10 ani.
-
-Colaborez cu cercetători, doctoranzi, cadre universitare, medici, psihologi și alți profesioniști pentru analiza datelor, sub diferite forme.
+Sunt statistician și lucrez în educație și cercetare de peste 10 ani. Colaborez cu cercetători, doctoranzi, cadre universitare, medici, psihologi și alți profesioniști pentru analiza datelor, sub diferite forme.
 </p>
 
 <p style="text-align: left;">
