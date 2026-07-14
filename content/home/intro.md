@@ -24,7 +24,9 @@ Salut, eu sunt Virgil.
 </h2>
 
 <p style="text-align: left;">
-Sunt statistician și sunt specializat în analiză statistică aplicată, cercetare academică și data science. Pe scurt, pot prelucra orice tip de date și pot extrage cele mai relevante rezultate, astfel încât să poți publica o lucrare academică, să iei o decizie bazată pe date sau să creezi un MVP. 
+Sunt statistician și lucrez în educație și cercetare de peste 10 ani.
+
+Colaborez cu cercetători, doctoranzi, cadre universitare, medici, psihologi și alți profesioniști pentru analiza datelor, sub diferite forme.
 </p>
 
 <p style="text-align: left;">

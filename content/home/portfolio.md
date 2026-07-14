@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 'Ghiduri și exemple'
+title: 'Ghiduri și exemple (în lucru)'
 subtitle: ''
 
 content:

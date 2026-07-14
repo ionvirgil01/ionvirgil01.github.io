@@ -72,8 +72,8 @@ social:
 #email: ""
 ---
 
-Sunt statistician și profesez în domeniul educației de peste 10 ani. Colaborez cu persoane din domeniul cercetării, cu scopul publicării în jurnale științifice și ofer consultanță în proiectarea studiilor care implică analiza statistică a datelor.
+Sunt statistician și profesez în domeniul educației și cercetării de peste 10 ani. Colaborez cu persoane din diferite sectoare și industrii și ofer consultanță în proiectarea studiilor care implică analiza statistică a datelor.
 
-Am absolvit studiile superioare în statistică aplicată și programare, și dețin experiența necesară în a combina cele două domenii astfel încât să rezolv problemele cât mai eficient, indiferent de dificultate.
+Sunt absolvent de statistică însă consider că programarea și scrierea de cod este elementul cheie complementar statisticii, de aceea combin atât statistica, cât și programarea pentru a rezolva problemele cât mai eficient. 
 
-Am lucrat la proiecte care variază de la analize descriptive și inferențiale, business intelligence până la cercetare experimentală exploratorie și modelare bazată pe algoritmi.
+Am lucrat la proiecte care variază, de la publicarea în jurnale academice până la dezvoltarea de studii naționale, dar și proiecte de business intelligence/A/B testing sau cercetare experimentală și modelare bazată pe algoritmi.

@@ -61,5 +61,5 @@ experience:
       * Consultanță în colectarea datelor
 
 design:
-  columns: '1'
+  columns: '2'
 ---
